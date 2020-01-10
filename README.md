@@ -21,27 +21,27 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(9).pdf" style="text-decoration:none;">Textbook of Surgical Oncology</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(10).rar" style="text-decoration:none;">Withrow and MacEwen's Small Animal Clinical Oncology</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(11).pdf" style="text-decoration:none;">Clinical Cases in Skin of Color</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(11).pdf" style="text-decoration:none;">Neuro-Oncology: Clinical and Experimental Aspects </a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(12).pdf" style="text-decoration:none;">Oxford Handbook of Medical Dermatology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(12).pdf" style="text-decoration:none;">Stem Cell Oncology</a></b></li>  
    
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(13).pdf" style="text-decoration:none;">Dermatologic Surgery</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(13).pdf" style="text-decoration:none;">Team-Based Oncology Care: The Pivotal Role of Oncology Navigation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(14).pdf" style="text-decoration:none;">Dermatology and Dermatological Therapy of Pigmented Skins</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(15).pdf" style="text-decoration:none;">Evidence Based Dermatology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(14).pdf" style="text-decoration:none;">Radiation Oncology: A Question-Based Review</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(15).pdf" style="text-decoration:none;">Integrative Oncology: Incorporating Complementary Medicine into Conventional Cancer Care</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(16).pdf" style="text-decoration:none;">Molecular Diagnostics for Dermatology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(16).pdf" style="text-decoration:none;">Cancer Pharmacology and Pharmacotherapy Review</a></b></li>  
    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(17).pdf" style="text-decoration:none;">The Manual of Dermatology</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(17).pdf" style="text-decoration:none;">Gynaecological Oncology for the MRCOG</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(18).pdf" style="text-decoration:none;">Retinoids and Carotenoids in Dermatology</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(18).pdf" style="text-decoration:none;">Handbook of Pediatric Hematology and Oncology</a></b></li>  
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(19).pdf" style="text-decoration:none;">Derm Notes: Dermatology Clinical Pocket Guide</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(20).pdf" style="text-decoration:none;">A Clinician's Guide to Dermatologic Differential Diagnosis</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(19).pdf" style="text-decoration:none;">Principles of Molecular Oncology</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(20).pdf" style="text-decoration:none;">Oncology at a Glance</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(21).pdf" style="text-decoration:none;">Dermatology at a Glance</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(21).pdf" style="text-decoration:none;">Surgical Oncology: A Practical and Comprehensive Approach</a></b></li>  
    
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(22).rar" style="text-decoration:none;">Inpatient Dermatology</a></b></li>
   
