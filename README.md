@@ -87,7 +87,13 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(39).pdf" style="text-decoration:none;">Clinical Nutrition for Oncology Patients</a></b></li>   
    
    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(40).pdf" style="text-decoration:none;">Palliative Care in Pediatric Oncology</a></b></li>  
    
-   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(41).pdf" style="text-decoration:none;">Radiotherapy in Practice: Physics for Clinical Oncology</a></b></li> 
+     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(42).pdf" style="text-decoration:none;">Dynamics of Cancer: Mathematical Foundations of Oncology</a></b></li>   
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/col(43).pdf" style="text-decoration:none;">Endoscopic Oncology: Gastrointestinal Endoscopy and Cancer Management </a></b></li>  
      
  </ul>
